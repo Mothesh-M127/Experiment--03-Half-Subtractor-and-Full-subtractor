@@ -53,7 +53,7 @@ assign d = x^y^z;
 assign b = ~x&(y^z)|y&z;
 endmodule
 ```
-
+ 
 */
 
 # Output:
